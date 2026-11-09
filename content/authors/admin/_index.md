@@ -6,12 +6,12 @@ superuser: true
 status:
   icon:
 
-role: Postdoctoral Researcher<br>Cosmology and High-Energy Astrophysics
+#role: Postdoctoral Researcher<br>Cosmology and High-Energy Astrophysics
    
    
-organizations:
-  - name: Leibniz Institute for Astrophysics, Potsdam
-    url: https://www.aip.de/en/research/
+#organizations:
+#  - name: Leibniz Institute for Astrophysics, Potsdam
+#    url: https://www.aip.de/en/research/
 
 interests:
   - Astrophysics
@@ -38,10 +38,9 @@ Hello! Welcome!
 
 Here, you can explore my research work, and a little more about me.
 
-I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany in the [Cosmology and High-Energy Astrophysics section](https://www.aip.de/en/research/cosmology/). I am also an external collaborator of the [DFG Research Unit FOR5195](https://www.for5195.uni-wuerzburg.de).
 
 <p style="margin-top: 5px;">
-
+I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany, in the [Cosmology and High-Energy Astrophysics section](https://www.aip.de/en/research/cosmology/).
 
 </div>
 
