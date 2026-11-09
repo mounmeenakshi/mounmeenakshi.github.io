@@ -1,5 +1,14 @@
 ---
+widget: blank
+headless: true
+active: true
+weight: 30
 title: About me
+subtitle: ''
+design:
+  columns: '2'
+  spacing:
+    padding: ["40px", "0", "40px", "0"]
 ---
 
 I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany, in the [Cosmology and High-Energy Astrophysics section](https://www.aip.de/en/research/cosmology/). I am also an external collaborator of the [DFG Research Unit FOR5195](https://www.for5195.uni-wuerzburg.de).

@@ -32,7 +32,7 @@ highlight_name: true
 
   <div style="flex:1; min-width:320px;">
 
-<p style="margin-top: 100px;">
+<p style="margin-top: 40px;">
 
 Hello! Welcome!
 
