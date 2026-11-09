@@ -7,3 +7,6 @@
 ./static/files/resume/resume*.aux
 ./static/files/resume/resume*.bcf
 ./static/files/resume/resume*.log
+
+# Kate editor swap files
+*.kate-swp
