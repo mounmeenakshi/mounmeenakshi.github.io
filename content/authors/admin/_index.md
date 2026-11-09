@@ -34,7 +34,9 @@ highlight_name: true
 
 <p style="margin-top: 100px;">
 
-Hello, and welcome to my homepage!
+Hello! Welcome!
+
+Here, you can explore my research work, and a little more about me.
 
 I am a Postdoctoral Researcher at the Leibniz Institute for Astrophysics Potsdam (AIP), Germany in the [Cosmology and High-Energy Astrophysics section](https://www.aip.de/en/research/cosmology/). I am also an external collaborator of the [DFG Research Unit FOR5195](https://www.for5195.uni-wuerzburg.de).
 
