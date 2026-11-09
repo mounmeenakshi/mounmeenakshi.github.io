@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
+  - name: About
+    url: '/about.html'
+    weight: 20
   - name: Research
     url: '#research'
     weight: 40
